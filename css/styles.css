@@ -1,0 +1,143 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: "Quicksand", sans-serif;
+  font-size: 1.2rem;
+}
+
+h1 {
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Caveat', cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+hr {
+  border-color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 5%;
+  margin: 50px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #11999E;
+}
+
+a:hover {
+  color: #EAF6F6;
+  font-weight: bold;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  padding: 100px 0 100px 0;
+}
+
+.bottom-container {
+  background: #66BFBF;
+  padding-top: 40px;
+  padding-bottom: 1px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+
+.description {
+  width: 25%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 150px auto;
+  text-align: left;
+}
+
+.contact-me-msg {
+  width: 25%;
+  margin: 20px auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+
+.profile-pic-img {
+  width: 10%;
+}
+
+.ai-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.vid-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  background: #11999E;
+  background-image: linear-gradient(to bottom, #11999E, #116d70);
+  border-radius: 28px;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.btn:hover {
+  background: #66BFBF;
+  background-image: linear-gradient(to bottom, #66BFBF, #7fb8b8);
+  text-decoration: none;
+}
+
+.footer-copyright {
+  margin: 30px auto;
+  color: #EAF6F6;
+  font-size: 0.8rem;
+  padding-top: 5px;
+}
+
+.footer-link {
+  margin: auto 20px;
+}
